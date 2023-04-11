@@ -2,3 +2,4 @@ foo
 bar
 link
 single commit squash merge
+race
