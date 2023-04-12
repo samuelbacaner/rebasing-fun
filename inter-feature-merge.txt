@@ -2,3 +2,4 @@ commit-onto-main-and-push
 merge-one
 commit-on-main-to-be-merged-into-merge-3-w-merge
 merge-three
+commit-on-main-to-be-merged-into-squash-3-w-merge
