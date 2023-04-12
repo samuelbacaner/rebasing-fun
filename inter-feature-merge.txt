@@ -3,3 +3,4 @@ merge-one
 commit-on-main-to-be-merged-into-merge-3-w-merge
 merge-three
 squash-one
+commit-on-main-to-be-merged-into-squash-3-w-merge
