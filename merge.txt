@@ -1,8 +1,7 @@
-one
+five
 2-five
 2-five
 3-one
 3-two
 3-three
 fizz
-buzz
